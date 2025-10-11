@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PqY4Oi87vBrLcTcVIx/gsbrekLsCVIuBYmTOFDArtyw=",
+  "Source": "ApiVersion",
+  "BasePath": "_content/ApiVersion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
